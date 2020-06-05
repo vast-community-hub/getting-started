@@ -1,9 +1,9 @@
 # Let's Get Started!
-The <strong>VAST Community Hub</strong> is a collaboration between Instantiations and the Smalltalk community to create a home for the best open source projects for the VAST Platform (VA Smalltalk). As of VAST 9.2.1, developers can export VA Smalltalk code in Tonel format, version it with git, and make it available on GitHub.<br><br>
+The **VAST Community Hub** is a collaboration between Instantiations and the Smalltalk community to create a home for the best open source projects for the VAST Platform (VA Smalltalk). As of VAST 9.2.1, developers can export VA Smalltalk code in Tonel format, version it with git, and make it available on GitHub.
 
-You'll find useful and fun projects alike in this collection, and we're looking forward to seeing what repositories the community creates.<br><br>
+You'll find useful and fun projects alike in this collection, and we're looking forward to seeing what repositories the community creates.
 
-We'd like more teams to get involved, so If you're interesting in helping or contributing to the VAST Community Hub, please reach out to vast-community-hub@instantiations.com <br><br>
+We'd like more teams to get involved, so If you're interesting in helping or contributing to the VAST Community Hub, please reach out to vast-community-hub@instantiations.com.
  
 ## Using code from the repos:
 
