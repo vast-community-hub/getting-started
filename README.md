@@ -3,14 +3,14 @@ The **VAST Community Hub** is a collaboration between Instantiations and the Sm
 
 You'll find useful and fun projects alike in this collection, and we're looking forward to seeing what repositories the community creates.
 
-We'd like more teams to get involved, so If you're interesting in helping or contributing to the VAST Community Hub, please reach out to vast-community-hub@instantiations.com.
+We'd like more teams to get involved, so if you're interesting in helping or contributing to the VAST Community Hub, please reach out to vast-community-hub@instantiations.com.<br><br>
  
 ## Using code from the repos:
 
 1. To use the repos here, you'll need to be a VAST Platform (VA Smalltalk) license holder (commercial, open source, or trial).
 <br><br>
 *If you're not a licensee of the VAST Platform, go to [https://www.instantiations.com/eval](https://www.instantiations.com/eval) to fill out the form for a free trial, or check to see if you qualify for an open source license: [https://www.instantiations.com/opensource](https://www.instantiations.com/opensource)*<br><br>
-2. Next, to load the Smalltalk code from the repository into the VAST Platform, you'll need to install Tonel (compatible with VAST 9.2.1 or igher). Find it at: https://github.com/instantiations/tonel-vast <br><br>
+2. Next, to load Smalltalk code from a repository into the VAST Platform, you'll need to install Tonel (compatible with VAST 9.2.1 or higher). Find it at: https://github.com/instantiations/tonel-vast <br><br>
 3. For instructions on using Tonel and the VAST Platform, consult the "Quick Start" guide within the Tonel repo readme: https://github.com/instantiations/tonel-vast <br><br>
  
  
