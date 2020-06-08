@@ -22,7 +22,7 @@ Thanks for wanting to get more involved!
 
 1. Contact us at vast-community-hub@instantiations.com to request a member role. Please tell us about yourself and what projects you'd like to do.<br><br>
 
-2. While we get your member role setup, please take a look at the following standards we'd recommend using in the VAST Community Hub:
+2. While we get your member role set up, please take a look at the following standards we'd recommend using in the VAST Community Hub:
    * Please have all your VA Smalltalk projects tagged with at least the following topics for best discoverability:
      * smalltalk
      * vasmalltalk
