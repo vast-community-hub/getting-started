@@ -1,3 +1,5 @@
+<img alt="Retro Games Collage" src="assets/logo/vast-comm-hub-header.png">
+
 # Let's Get Started!
 The **VAST Community Hub** is a collaboration between Instantiations and the Smalltalk community to create a home for the best open source projects for the VAST Platform (VA Smalltalk). As of VAST 9.2.1, developers can export VA Smalltalk code in Tonel format, version it with git, and make it available on GitHub.
 
